@@ -7,6 +7,7 @@ import laptopImg from "../../Assets/about.png"
 
 function About() {
   return (
+    <title>About</title>,
     <Container fluid className="about-section">
       <Particle />
       <Container>
