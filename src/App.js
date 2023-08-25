@@ -29,6 +29,9 @@ function App() {
   }, []);
 
   return (
+    <Helmet>
+          <title>About</title>
+        </Helmet>,
     <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
