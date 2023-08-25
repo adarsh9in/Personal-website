@@ -23,8 +23,8 @@ function Projects() {
               imgPath={chatify}
               title="WEPOP (E-commerce App)"
               description="An e-commerce app for clothing using Googles Firebase"
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/adarsh9in/WEPOP"
+              
             />
           </Col>
 
@@ -34,7 +34,7 @@ function Projects() {
               title="Smart Weather Station"
               description="Worked Under supervision of Prof. Jetendra Joshi on Firebase Real-time Database"
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              
             />
           </Col>
 
@@ -44,7 +44,7 @@ function Projects() {
               title="SkyCast"
               description="Weather App with MVVM using OpenWeather API"
               ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+                          
             />
           </Col>
         </Row>
