@@ -29,7 +29,6 @@ function App() {
   }, []);
 
   return (
-    document.title = 'wow',
     <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
