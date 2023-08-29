@@ -28,9 +28,9 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Applications and Products </b> 
+                <b className="purple">Applications and  </b> 
                 <b className="purple">
-                  Cybersecurity
+                  Cyber security
                 </b>
               </i>
               <br />
@@ -45,7 +45,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js </b>
+                <b className="purple"> React Native </b>
               </i>
             </p>
           </Col>
