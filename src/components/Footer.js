@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://www.youtube.com/channel/UCVOZ53X9PDGbmhqj5bsnMYw"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
