@@ -43,7 +43,7 @@ function Projects() {
               imgPath={editor}
               title="SkyCast"
               description="Weather App with MVVM using OpenWeather API"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink=""
                           
             />
           </Col>
